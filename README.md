@@ -13,7 +13,7 @@ Project: X gameplay video: https://youtu.be/ZDLAuevlNQo
 - "Ghost-car" script for replaying the player's best lap (with current limitations).
 
 # Installation
-To play Project: X, launch ProjectX.exe form build folder.
+To play Project: X, launch ProjectX.exe from build folder.
 
 # Controls
 - WSAD to control car
