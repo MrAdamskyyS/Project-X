@@ -15,7 +15,7 @@ Project: X gameplay video: https://youtu.be/ZDLAuevlNQo
 # Installation
 To play Project: X, launch ProjectX.exe form build folder.
 
-# COntrols
+# Controls
 - WSAD to control car
 - Left Shift to use nitro
 - Space to break
