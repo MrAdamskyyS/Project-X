@@ -1,0 +1,5 @@
+Zewnętrzne assety i package
+
+Dźwięk silnika - V8 Engine Idle Sound For 1 Hour (https://www.youtube.com/watch?v=bI08U8h5F7A)
+Dźwięk w car oraz track menu - Whoosh Sound Effect For Edits | Free Whoosh Transition Sound Effects 2022 (https://www.youtube.com/watch?v=VREWqPjHCR8)
+Punkty na wykresie oraz funkcja GetAngleFromVectorFloat() - Code Monkey Utils Package (https://unitycodemonkey.com/utils.php)
